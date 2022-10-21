@@ -9,7 +9,7 @@ $dbname = "test";
 
 
 // Create connection
-$conn = new mysqli ($host, $dbusername, $dbpassword, $dbname,3307);
+$conn = new mysqli ($host, $dbusername, $dbpassword, $dbname);
 // $conn = mysqli_connect("localhost", "root", "", "admin");
 
 // IF
