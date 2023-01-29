@@ -28,7 +28,7 @@ if(isset($_POST["action"])){
 //update
 
 
-// function update(){
+/// function update(){
 
 // global $conn;
 

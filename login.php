@@ -16,7 +16,7 @@ if(isset($_SESSION["id"])){
     <!-- Exteernal CSS Link -->
     <link rel="stylesheet" href="./css/style.css">
     
-<!-- Jquery Link -->
+<!-- Jquery Link --->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
 
     <!-- bootstrap CDN Link -->

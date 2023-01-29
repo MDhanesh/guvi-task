@@ -15,7 +15,7 @@ $dbname = "test";
 
 
 
-// Create connection
+/// Create connection
 $conn = new mysqli ($host, $dbusername, $dbpassword, $dbname,3307);
 
 if (mysqli_connect_error()){

@@ -47,7 +47,7 @@ else{
     </form>
     </div>
     </div>
-    <!-- External JS Link -->
+    <!-- External JS Link --->
     <script src="./js/script.js"></script>
     <!-- bootstrap CDN Link -->
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.2/dist/umd/popper.min.js"
