@@ -9,6 +9,8 @@ function submitData() {
       action: $("#action").val(),
     };
 
+    
+    
     $.ajax({
       url: "function.php",
       type: "post",
